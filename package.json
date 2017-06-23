@@ -13,7 +13,8 @@
   "scripts": {},
   "dependencies": {
     "bencode": "^0.7.0",
-    "bitfield": "^1.1.2"
+    "bitfield": "^1.1.2",
+    "iconv-lite": "^0.4.18"
   },
   "keywords": [
     "torrent",
